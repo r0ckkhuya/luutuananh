@@ -51,7 +51,7 @@ export default () => {
           right: 0,
           justifyContent: `center`,
           alignItems: `center`,
-          background: `#c5484d`,
+          background: `#4d999c`,
         }}
       >
         <h1
@@ -69,9 +69,7 @@ export default () => {
             },
           }}
         >
-          <span css={{ fontWeight: 400 }}>Welcome to the</span> Personal
-          Internet Domicile{` `}
-          <span css={{ fontWeight: 400 }}>of Kyle Mathews</span>
+          <span css={{ fontWeight: 400 }}>Blog của<br/></span> 1 người con<br/> 1 người cha<br/> 1 người chồng
         </h1>
       </div>
       <div
@@ -91,7 +89,7 @@ export default () => {
           },
         }}
       >
-        <NoStyleLink to="/">bricolage</NoStyleLink>
+        <NoStyleLink to="/">RK</NoStyleLink>
       </div>
       <div
         css={{

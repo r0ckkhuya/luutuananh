@@ -3,8 +3,8 @@ const CodePlugin = require("typography-plugin-code").default
 
 let theme = {
   baseFontSize: `18px`,
-  headerFontFamily: [`Cooper Hewitt`, `sans-serif`],
-  bodyFontFamily: [`Cooper Hewitt`, `sans-serif`],
+  headerFontFamily: [`Fira Sans`, `sans-serif`],
+  bodyFontFamily: [`Fira Sans`, `sans-serif`],
   plugins: [new CodePlugin()],
   baseLineHeight: 1.45,
   blockMarginBottom: 0.85,

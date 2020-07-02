@@ -1,10 +1,10 @@
-const redish = `#c5484d`
+const redish = `#4d999c`
 
 module.exports = {
   siteMetadata: {
-    title: "Bricolage",
-    author: "Kyle Mathews",
-    homeCity: "San Francisco",
+    title: "RK",
+    author: "Luu Tuan Anh",
+    homeCity: "Hanoi, Vietnam",
   },
   plugins: [
     {
@@ -54,8 +54,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "Bricolage",
-        short_name: "Bricolage",
+        name: "RK",
+        short_name: "RK",
         icon: "static/logo.png",
         start_url: "/",
         background_color: redish,

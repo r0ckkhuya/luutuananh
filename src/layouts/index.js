@@ -16,9 +16,9 @@ class Wrapper extends React.Component {
       <div
         css={{
           minHeight: `100vh`,
-          borderTop: `${rhythm(3 / 4)} solid #c5484d`,
+          borderTop: `${rhythm(3 / 4)} solid #4d999c`,
           "@media (min-width: 420px)": {
-            border: `${rhythm(3 / 4)} solid #c5484d`,
+            border: `${rhythm(3 / 4)} solid #4d999c`,
           },
         }}
       >
@@ -26,19 +26,19 @@ class Wrapper extends React.Component {
           <div
             css={{
               float: `left`,
-              // color: `#c5484d`,
+              // color: `#4d999c`,
               marginTop: rhythm(3 / 4),
               marginLeft: rhythm(3 / 4),
               fontSize: scale(2 / 5).fontSize,
               lineHeight: scale(2 / 5).lineHeight,
             }}
           >
-            <NoStyleLink to="/">bricolage</NoStyleLink>
+            <NoStyleLink to="/">RK</NoStyleLink>
           </div>
           <div
             css={{
               float: `right`,
-              // color: `#c5484d`,
+              // color: `#4d999c`,
               marginTop: rhythm(3 / 4),
               marginRight: rhythm(3 / 4),
               fontSize: scale(2 / 5).fontSize,
@@ -59,7 +59,7 @@ class Wrapper extends React.Component {
             margin: `0 auto`,
           }}
         >
-          <Helmet defaultTitle="Bricolage" titleTemplate="Bricolage | %s" />
+          <Helmet defaultTitle="RK" titleTemplate="RK | %s" />
           {this.props.children}
         </div>
       </div>
