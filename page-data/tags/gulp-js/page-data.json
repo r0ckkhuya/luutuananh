@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tag-page-js","path":"/tags/gulp-js/","result":{"data":{"site":{"siteMetadata":{"title":"RK"}},"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/hosting-static-sites-with-docker-and-nginx/"},"frontmatter":{"title":"Hosting static sites with Docker and Nginx"}}}]}},"pageContext":{"tag":"gulp.js"}}}
