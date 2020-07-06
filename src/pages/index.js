@@ -6,7 +6,7 @@ const NoStyleLink = props => (
   <Link css={{ color: `inherit`, textDecoration: `none` }} {...props} />
 )
 
-const whitish = `#deeaf3`
+const whitish = `#ffffff`
 
 export default () => {
   return (
@@ -69,7 +69,7 @@ export default () => {
             },
           }}
         >
-          <span css={{ fontWeight: 400 }}>Blog của<br/></span> 1 người con<br/> 1 người cha<br/> 1 người chồng
+          <span css={{ fontWeight: 400 }}>Blog của<br/></span> 1 người con<br/> 1 người cha<br/> 1 người chồng<br/>1 người đàn ông
         </h1>
       </div>
       <div

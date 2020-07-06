@@ -1,6 +1,4 @@
 blog
 ====
 
-my blog!
-
-Visit the actual site at http://bricolage.io
+https://r0ckkhuya.github.io/luutuananh/

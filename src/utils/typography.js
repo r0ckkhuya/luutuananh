@@ -10,7 +10,7 @@ let theme = {
   blockMarginBottom: 0.85,
   overrideThemeStyles: ({ rhythm }) => ({
     a: {
-      color: `#3A69A8`,
+      color: `#4d999c`,
     },
     blockquote: {
       marginLeft: 0,
