@@ -1,7 +1,6 @@
 const redish = `#4d999c`
 
 module.exports = {
-  pathPrefix: "/luutuananh",
   siteMetadata: {
     title: "RK",
     author: "Luu Tuan Anh",
