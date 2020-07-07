@@ -69,7 +69,7 @@ export default () => {
             },
           }}
         >
-          <span css={{ fontWeight: 400 }}>Blog của<br/></span> 1 người con<br/> 1 người cha<br/> 1 người chồng<br/>1 ông giám đốc tay ngang
+          1 người con<br/> 1 người cha<br/> 1 người chồng<br/>1 ông giám đốc tay ngang
         </h1>
       </div>
       <div
