@@ -102,8 +102,7 @@ export default () => {
           lineHeight: scale(2 / 5).lineHeight,
         }}
       >
-        <NoStyleLink to="/blog/">blog</NoStyleLink>,{" "}
-        <NoStyleLink to="/about/">about</NoStyleLink>
+        <NoStyleLink to="/blog/">blog</NoStyleLink>
       </div>
     </div>
   )

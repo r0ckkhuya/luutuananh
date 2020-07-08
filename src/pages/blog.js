@@ -34,7 +34,9 @@ class BlogIndexRoute extends React.Component {
               height: rhythm(2),
             }}
           />
-          Code lover, Gym, Running, Reading, Zen
+          Mỗi ngày, tôi đều tận hưởng những niềm vui.
+          <br/>
+          Code lover, Gym, Running, Reading, Zen.
         </p>
         <p />
         <ul

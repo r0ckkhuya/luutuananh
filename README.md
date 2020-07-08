@@ -1,4 +1,4 @@
 blog
 ====
 
-https://r0ckkhuya.github.io/luutuananh/
+blog.luutuananh.com
