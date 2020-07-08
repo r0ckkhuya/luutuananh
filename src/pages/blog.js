@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../layouts/index.js"
 import typography from "../utils/typography"
-import profilePic from "../images/kyle-round-small-pantheon.jpg"
+import profilePic from "../images/14664d00e6b71be942a6.jpg"
 
 const rhythm = typography.rhythm
 
@@ -34,9 +34,9 @@ class BlogIndexRoute extends React.Component {
               height: rhythm(2),
             }}
           />
-          Mỗi ngày, tôi đều tận hưởng những niềm vui.
+          Người viết những điều đơn giản một cách đơn giản.
           <br/>
-          Code lover, Gym, Running, Reading, Zen.
+          Minimalist, Stoicism, Code lover, Gym, Running, Reading, Zen.
         </p>
         <p />
         <ul

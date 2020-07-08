@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import typography from "../utils/typography"
 import ReadNext from "../components/ReadNext"
 import Layout from "../layouts/index.js"
-import profilePic from "../images/kyle-round-small-pantheon.jpg"
+import profilePic from "../images/14664d00e6b71be942a6.jpg"
 
 const { rhythm, scale } = typography
 
@@ -82,7 +82,7 @@ class BlogPostRoute extends React.Component {
               height: rhythm(2),
             }}
           />
-          <strong>{this.props.data.site.siteMetadata.author}</strong> Người thích viết những điều đơn giản.{" "}
+          <strong>{this.props.data.site.siteMetadata.author}</strong> Người viết những điều đơn giản một cách đơn giản.
         </p>
       </Layout>
     )
