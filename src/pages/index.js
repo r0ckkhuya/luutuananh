@@ -103,6 +103,7 @@ export default () => {
         }}
       >
         <NoStyleLink to="/blog/">blog</NoStyleLink>
+        <Helmet defaultTitle="RK">
       </div>
     </div>
   )

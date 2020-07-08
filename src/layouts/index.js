@@ -46,7 +46,6 @@ class Wrapper extends React.Component {
             }}
           >
             <NoStyleLink to="/blog/">blog</NoStyleLink>,{" "}
-            <NoStyleLink to="/about/">about</NoStyleLink>
           </div>
         </div>
         <div
