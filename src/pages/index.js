@@ -1,6 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import { scale, rhythm } from "../utils/typography"
+import Helmet from "react-helmet"
 
 const NoStyleLink = props => (
   <Link css={{ color: `inherit`, textDecoration: `none` }} {...props} />
@@ -103,7 +104,7 @@ export default () => {
         }}
       >
         <NoStyleLink to="/blog/">blog</NoStyleLink>
-        <Helmet defaultTitle="RK">
+        <Helmet defaultTitle="RK" />
       </div>
     </div>
   )
