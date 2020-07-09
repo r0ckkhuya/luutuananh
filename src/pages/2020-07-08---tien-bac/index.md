@@ -9,7 +9,7 @@ date: "2020-07-08T17:52:44.000Z"
 draft: false
 ---
 
-# Ngày xửa ngày xưa
+## Ngày xửa ngày xưa
 có 1 bác thợ săn thật thà, tốt bụng, sống trong 1 ngôi làng sâu trong núi.
 Cuộc sống của bác rất bình yên, ngày ngày đi săn, hôm được con thỏ thì ăn thỏ, hôm được con nai thì đổi lấy ít lúa mì. 
 
@@ -26,7 +26,7 @@ Từ đó, bác sống trong sự lo âu, thấp thỏm đến cuối đời.
 
 ---
 
-# Lời khuyên của Đức Phật 
+## Lời khuyên của Đức Phật 
 dành cho Anathapindika, 1 người đàn ông giàu nứt đố đổ vách : "Người bám chấp vào sự giàu có thì tốt hơn nên bỏ nó đi thay vì cho phép nó đầu độc trái tim của anh ta; nhưng nếu anh ta không bám chấp vào sự giàu có, và có nhiều của cải, sử dụng chúng 1 cách đúng đắn, thì sẽ là phước lành cho những người xung quanh anh ta".
 
 Sự giàu có, tiền bạc là con dao 2 lưỡi. 
