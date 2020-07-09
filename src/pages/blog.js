@@ -34,7 +34,7 @@ class BlogIndexRoute extends React.Component {
               height: rhythm(2),
             }}
           />
-          Người viết những điều đơn giản một cách đơn giản.
+          Người viết những điều đơn giản một cách đơn giản. Tôi viết blog này cho mình, và nếu nó có thể tạo ra cảm hứng cho bạn, thì đó là 1 niềm vui với tôi.
           <br/>
           Minimalist, Stoicism, Code lover, Gym, Running, Reading, Zen.
         </p>
