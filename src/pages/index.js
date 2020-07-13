@@ -70,7 +70,7 @@ export default () => {
             },
           }}
         >
-          1 người con<br/> 1 người cha<br/> 1 người chồng<br/>1 người đàn ông<br/> 1 ông giám đốc tay ngang
+          1 người con<br/> 1 người cha<br/> 1 người chồng<br/>1 người đàn ông<br/> 1 giám đốc tay ngang
         </h1>
       </div>
       <div
