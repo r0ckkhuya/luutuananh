@@ -3,7 +3,7 @@ title: Nền kinh tế sự chú ý
 tags:
   - 1 người cha
   - 1 người đàn ông
-date: "2020-07-09T12:00:00.000Z"
+date: "2020-07-13T12:00:00.000Z"
 ---
 
 ## The Sun
@@ -11,7 +11,7 @@ date: "2020-07-09T12:00:00.000Z"
 Bạn có biết tờ báo "The Sun". 
 Đó là tờ báo bán chạy nhất ở Anh, và đứng thứ 10 trong số các tờ báo lớn nhất thuộc bất kì ngôn ngữ nào. (Wikipedia)
 
-Lịch sử của "The Sun" có 1 bước ngoặt thú vị. Đó là khi ... đã mua lại tờ báo này. 
+Lịch sử của "The Sun" có 1 bước ngoặt thú vị. Đó là khi (hem nhớ tên =)) ) đã mua lại tờ báo này. 
 Giữa 1 thế giới báo in quá nhiều cạnh tranh, ông đã đưa ra 1 bước ngoặt quan trọng : hạ giá bán tờ "The Sun" xuống chỉ còn 1 xu, giá tiền mà bất kì ai cũng có thể mua được. Ông không đặt trọng tâm là "số tiền bán báo" (nói lên giá trị chất lượng của tờ báo - giống như tất cả các tờ báo cùng thời) mà ông đặt trọng tâm vào "số tiền kiếm được từ quảng cáo" (nói lên giá trị thu hút sự chú ý của tờ báo). 
 
 Đó là ý tưởng thiên tài đã nhìn ra được giá trị của sự chú ý. 
