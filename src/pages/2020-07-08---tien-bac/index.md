@@ -4,7 +4,7 @@ tags:
   - 1 người con
   - 1 người cha
   - 1 người chồng
-  - 1 ông giám đốc tay ngang
+  - 1 giám đốc tay ngang
 date: "2020-07-08T17:52:44.000Z"
 draft: false
 ---
