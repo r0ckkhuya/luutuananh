@@ -61,3 +61,9 @@ Tìm 1 cách nào đó để phân biệt rạch ròi, để từ bỏ 1 trong s
 
 Nhưng, sẽ rất khác biệt khi có 1 chiến lược để tiếp xúc và tiếp nhận những điều này, để không biến mình thành những con cừu bị nuôi bằng những cảm xúc tiêu cực.
 Mỗi chúng ta đều phải tự suy nghĩ, để tìm ra giá trị thực sự mà mình mong muốn là gì. Để từ đó, có 1 chiến lược cho riêng mình. 
+
+## Bản thân mình
+đã thực hiện 2 chiến lược : 
+1. Không đọc tin tức hàng ngày nữa. Trước giờ mình mất quá nhiều thời gian để đọc tin tức, nhưng nghĩ lại, thì những thông tin đọc không đáng giá, hoặc chỉ cần 1 buổi 1 tuần để đọc là được. Các tờ báo, dù phần lớn là câu khách, nhưng vẫn có 1 số chuyên mục rất có giá trị, như những bài long-term, phân tích, phỏng vấn, ... 
+
+2. Hạn chế sử dụng mạng xã hội. Mình đã xoá các app MXH trên điện thoại như facebook, twitter, instagram, ... Hiện tại, nếu sử dụng, thì mình sẽ dùng trên máy tính. Nhưng sự thực là sau khoảng 1 tuần không dùng, mình thấy FB trở nên nhạt nhẽo vô cùng. 
