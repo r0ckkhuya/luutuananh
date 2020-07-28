@@ -1,9 +1,8 @@
 ---
-title: Bàn về "Chủ nghĩa Khắc Kỷ" - Triết lý sống
+title: Bàn về "Chủ nghĩa Khắc Kỷ" - Sự cần thiết của Triết lý sống
 tags:
     - 1 người đàn ông
     - Chủ nghĩa Khắc Kỷ
-
 date: "2020-07-19T12:00:00.000Z"
 ---
 
@@ -55,3 +54,6 @@ Và triết lý sống này đúng, triết lý sống kia sai, là 1 sự phân
 
 Chỉ là, đến cuối cùng, trước khi chết, ta có thể nhìn lại, mỉm cười, rằng ta đã sống 1 cuộc đời có ý nghĩa, thế là được. 
 
+Xét cho cùng, triết lý sống cũng không phải bắt buộc. Xung quanh ta, quá nhiều những con người vẫn sống, vẫn ăn, vẫn thở, vẫn uống nước mà không cần phải có 1 triết lý sống. 1 người có triết lý sống cũng vẫn có khả năng nhầm đường lạc lối.
+
+Nhưng, có triết lý sống, vẫn giúp chúng ta sống hạnh phúc hơn, và giảm thiểu khả năng nhầm đường hơn. 

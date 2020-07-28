@@ -1,18 +1,19 @@
 ---
-title: Bàn về "Chủ nghĩa Khắc Kỷ" - Triết lý sống của "Chủ nghĩa khắc Kỷ"
+title: Bàn về "Chủ nghĩa Khắc Kỷ" - Triết lý sống của "Chủ nghĩa Khắc Kỷ"
 tags:
     - 1 người đàn ông
     - Chủ nghĩa Khắc Kỷ
-
-date: "2020-07-21T12:00:00.000Z"
-draft: true
+date: "2020-07-28T12:00:00.000Z"
 ---
 
+Bài viết này diễn giải lại chủ nghĩa Khắc Kỷ theo 1 cách ngắn gọn và cấu trúc hiện đại hơn. Ở đây, tôi lồng chủ nghĩa Khắc Kỷ vào trong mô hình MVV, mô hình thường được sử dụng trong kinh doanh, xây dựng doanh nghiệp. 
 
 > Mission (sứ mệnh) : có 1 cuộc đời hạnh phúc, tốt đẹp 
+> 
 > Vision (mục tiêu) : 
 >   - Sống thuận theo tự nhiên để trở thành 1 con người ưu việt hơn 
 >   - Theo đuổi đức hạnh và sự bình thản 
+> 
 > Value (giá trị cốt lõi) :
 >   - Lạc quan, hài lòng với những gì mình có
 >   - Tự tiết chế của bản thân
@@ -35,9 +36,24 @@ Chúng ta đói, chúng ta phải ăn. Chúng ta khát, chúng ta phải uống.
 Nhưng, là 1 con người, chúng ta còn biết suy nghĩ. 
 
 Suy nghĩ khiến loài người trở nên khác biệt, biến chúng ta nhảy vọt lên trên cùng trên tháp thức ăn. 
+Và vì thế, để trở thành 1 con người ưu việt, chúng ta phải biết sử dụng suy nghĩ, lý trí để kiểm soát những nhu cầu bản năng. 
 
-Nhưng suy nghĩ là con dao 2 lưỡi. Nó khiến cho ham muốn bản năng của chúng ta trở nên quá nhiều. 
-1 con sư tử cũng chỉ săn mồi khi nó đói. 1 con khỉ cũng chỉ uống nước khi nó khát. 
-Nhưng chúng ta, dù không đói, chúng ta vẫn thèm ăn 1 cái bánh ngọt. Chúng ta dù có nước lọc, cũng vẫn muốn những thứ đồ uống có ga, có cồn, vì nó mang lại cảm giác kích thích hơn. 
-Và, chẳng có loài động vật nào làm tình chỉ vì thoả mãn chứ không phải vì duy trì nòi giống. 
 
+> Nhưng suy nghĩ là con dao 2 lưỡi. Nó khiến cho ham muốn bản năng của chúng ta trở nên quá nhiều. 
+> 1 con sư tử cũng chỉ săn mồi khi nó đói. 1 con khỉ cũng chỉ uống nước khi nó khát. 
+> Nhưng chúng ta, dù không đói, chúng ta vẫn thèm ăn 1 cái bánh ngọt. Chúng ta dù có nước lọc, cũng vẫn muốn những thứ đồ uống có ga, có cồn, vì nó mang lại  cảm giác kích thích hơn. 
+> Và, chẳng có loài động vật nào làm tình chỉ vì thoả mãn chứ không phải vì duy trì nòi giống. 
+
+Con người cũng là 1 loài động vật xã hội. Và "thuận theo tự nhiên", chúng ta cũng phải đảm bảo hài hoà được các mối quan hệ xã hội của mình : gia đình, xã hội, công việc, ...
+
+### Theo đuổi đức hạnh và sự bình thản
+Trong mắt những người Khắc Kỷ, đức hạnh là sự
+
+
+## Value
+Để đạt được những mục tiêu của cuộc đời mình, những người Khắc Kỷ cũng suy nghĩ về những giá trị mà họ đề cao, về những phương pháp để giúp họ trở thành người mà họ mong muốn. 
+
+### Lạc quan, hài lòng với những gì mình có 
+### Tự tiết chế của bản thân
+### Thấu hiểu cuộc sống 1 cách khách quan 
+### Suy ngẫm, cải thiện bản thân
