@@ -2,7 +2,7 @@
 title: Bàn về "Chủ nghĩa Khắc Kỷ" - Triết lý sống
 tags:
     - 1 người đàn ông
-    - Stoic
+    - Chủ nghĩa Khắc Kỷ
 
 date: "2020-07-19T12:00:00.000Z"
 ---
