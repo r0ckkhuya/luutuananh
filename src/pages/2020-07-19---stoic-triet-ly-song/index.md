@@ -27,6 +27,7 @@ Có nhiều ý kiến nghi ngờ sự tồn tại của dạng khủng hoảng n
 Chúng ta hiểu, tuổi già và cái chết là không thể tránh khỏi. Dù vật chất chúng ta có nhiều đến đâu, danh vọng chúng ta có cao đến đâu, khoái lạc cuộc sống có kích thích đến mức độ nào, cuối cùng, chúng ta đều già đi, cuối cùng, chúng ta đều phải chết. Dù đó là Steve Jobs, dù đó là Bill Gates, hay 1 người già cô đơn ở xứ mặt trời mọc. 
 ![Steve Jobs những ngày cuối đời](/steve-jobs.jpg)
 ![Bill Gates](/bill_gates.jpg)
+( Steve Jobs và Bill Gates, 2 người đàn ông cực kì nổi tiếng và giàu có, nhưng họ cũng không tránh khỏi số phận )
 
 **1 sự hiển nhiên buồn bã.**
 
