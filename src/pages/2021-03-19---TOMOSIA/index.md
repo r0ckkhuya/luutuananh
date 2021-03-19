@@ -22,7 +22,9 @@ Chúng tôi mơ ước rằng, mỗi người sẽ đạt được điểm cân 
 Là những con người có sở thích, đam mê, có mục tiêu và sẵn sàng hành động. 
 Đó cũng là những người vị tha, sẵn sàng chia sẻ và cho đi.
 
-Chúng tôi mơ ước rằng, "đi làm" giống như "đi về nhà". Công ty trở thành ngôi nhà thứ 2 của mỗi người. Đồng nghiệp cũng chính là anh em, đối xử với nhau chân thành, yêu thương. Ở đó không có sếp - nhân viên, ở đó chỉ có những con người tôn trọng nhau, luôn biết lắng nghe và thấu hiểu, luôn biết nói lời cảm ơn và xin lỗi.
+Chúng tôi mơ ước rằng, **"đi làm"** giống như **"đi về nhà"**. Công ty trở thành ngôi nhà thứ 2 của mỗi người. Đồng nghiệp cũng chính là anh em, đối xử với nhau chân thành, yêu thương. Ở đó không có sếp - nhân viên, ở đó chỉ có những con người tôn trọng nhau, luôn biết lắng nghe và thấu hiểu, luôn biết nói lời cảm ơn và xin lỗi.
+
+![tomosia](/tomosia.jpg)
 
 ---
 
