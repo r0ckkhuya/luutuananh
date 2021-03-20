@@ -15,7 +15,7 @@ Cái tên TOMOSIA - dù rất hay bị đọc nhầm thành tô mô sa hay fô m
 
 Với chúng tôi, công việc không chỉ là để kiếm tiền. Bạn có thể làm nhiều công việc khác, không nhất thiết là IT. Bạn có thể làm ở nhiều công ty khác, không nhất thiết là TOMOSIA.
 
-8 tiếng ở công ty, nếu chỉ để kiếm tiền, thì thật quá uổng phí. Chúng tôi mong muốn mang tới những giá trị tốt hơn nữa, hạnh phúc hơn nữa cho mỗi người.
+8 tiếng ở công ty, nếu chỉ để kiếm tiền, thì thật quá uổng phí. Chúng tôi mong muốn mang tới những giá trị tốt hơn nữa, hạnh phúc hơn nữa cho mỗi người, để 8 tiếng ấy còn là niềm vui nữa. 
 
 Chúng tôi mơ ước rằng, mỗi người sẽ đạt được điểm cân bằng để tìm ra **"hạnh phúc"** của mình. 
 Điểm cân bằng đó là sự khỏe mạnh về thể chất và tinh thần. 
@@ -31,6 +31,8 @@ Chúng tôi mơ ước rằng, **"đi làm"** giống như **"đi về nhà"**. 
 Chúng tôi vốn dĩ muốn tập trung vào công việc, tập trung vào những điều làm cho bản thân và anh em trong công ty được hạnh phúc. Nhưng đâu đó, vẫn có những lời gièm pha, vu khống, đặt điều về công ty. Đâu đó vẫn có những lời mời dịch vụ xóa review với cái giá rẻ mạt vài triệu đồng.
 
 Có những anh em trong công ty bức xúc, muốn cãi lại, phản bác lại những điều vu khống đó. Nhưng tôi nói với anh em, rằng như thế cũng giống như mang rác ngoài đường về nhà mình.
+
+Cũng có người nói anh trả vài triệu đi để "nó" xóa review cho. Vài triệu cũng ít thôi, nhưng tôi không muốn thỏa hiệp với cái sai, cái xấu. 
 
 Vậy nên, nói 1 lần cho rõ ràng, trong suốt 4 năm phát triển của TOMOSIA, chúng tôi tự hào vào niềm tin và cá tính của mình.
 
