@@ -1,5 +1,5 @@
 ---
-title: "Sắc màu tổ chức - Phần 1 : các mô hình tổ chức"
+title: "Sắc màu tổ chức - Phần 1 : Các mô hình tổ chức"
 tags:
     - 1 ông giám đốc tay ngang
 date: "2021-11-29T12:00:00.000Z"
