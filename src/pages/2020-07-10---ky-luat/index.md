@@ -1,7 +1,7 @@
 ---
 title: Kỷ luật
 tags:
-  - 1 người người đàn ông
+  - 1 người đàn ông
   - 1 giám đốc tay ngang
 date: "2020-07-10T12:00:00.000Z"
 ---
