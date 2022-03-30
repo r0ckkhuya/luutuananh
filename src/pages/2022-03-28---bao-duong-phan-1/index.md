@@ -1,5 +1,5 @@
 ---
-title: "Bào đường - phần 1"
+title: "Bào đường - Phần 1"
 tags:
     - 1 người đàn ông
 date: "2022-03-28T12:00:00.000Z"
@@ -29,7 +29,7 @@ Cứ tưởng tượng 1 sáng mùa đông lạnh giá, chuông báo thức kêu
 Rồi khi muốn dậy đi làm, bạn sẽ để mấy chuông báo thức ? Liệu có tình trạng 3, 4 chuông cách nhau 5p không ? Chính bản thân tôi cũng đã từng như vậy, nên việc dậy sớm lúc 5h30 thực sự là 1 thử thách rất khó. 
 
 > Để thay đổi 1 thói quen, bạn cần 1 hệ thống đủ mạnh.
-> 
+ 
 
 ## 2. Ai cũng biết về trò chơi domino
 
@@ -55,5 +55,10 @@ Hãy nghĩ “thói quen dậy sớm” như là 1 yếu tố trong hệ thống
 - Lúc đầu tôi để báo thức trong phòng. Nhưng nó quá gần đến mức tôi có thể với tay tắt nó và ... đi ngủ tiếp. Tôi suy nghĩ về hệ thống hành động của mình, và quyết định để điện thoại ra phòng khách. Khi chuông kêu, tôi phải rời khỏi giường để tắt chuông, và điều đó đã khiến tôi tỉnh rồi.
 - Tuy nhiên, điều đó cũng chưa thể đảm bảo 100% tôi sẽ không quay lại giường, vậy nên tôi tạo thêm thói quen sẽ uống 1 cốc nước lớn ngay khi ra ngoài, pha thêm 1 chút muối và chanh.
 
-Vậy đó, khi hệ thống thay đổi, thì việc dậy sớm đã không còn quá khó khăn nữa. Việc còn lại là xỏ giày và đi xuống phòng tập thôi. 
+Vậy đó, khi hệ thống thay đổi, thì việc dậy sớm đã không còn quá khó khăn nữa. Việc còn lại là xỏ giày và đi xuống phòng tập.
+
+Và điều quan trọng cần được nhắc lại 2 lần : 
+
+> Để thay đổi 1 thói quen, bạn cần 1 hệ thống đủ mạnh.
+
 
